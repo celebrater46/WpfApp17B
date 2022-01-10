@@ -1,0 +1,16 @@
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\bin\Debug\WpfApp17B.exe.config
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\bin\Debug\WpfApp17B.exe
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\bin\Debug\WpfApp17B.pdb
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.csproj.AssemblyReference.cache
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\MainWindow.g.cs
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\App.g.cs
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B_MarkupCompile.cache
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B_MarkupCompile.lref
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\MainWindow.baml
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.g.resources
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.Properties.Resources.resources
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.csproj.GenerateResource.cache
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.exe
+C:\Users\Enin\RiderProjects\WpfApp17B\WpfApp17B\obj\Debug\WpfApp17B.pdb

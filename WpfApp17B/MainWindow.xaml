@@ -5,8 +5,38 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp17B"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="450" Width="825">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="AcceptsReturn" Value="True"/>
+            <Setter Property="FontFamily" Value="Meiryo"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+    
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
         
+        <TextBox Grid.Column="0" x:Name="txtIn"/>
+        
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="->" Margin="5" HorizontalAlignment="Center"/>
+            <Button Content="Uppercase"/>
+            <Button Content="Lowercase"/>
+            <Button Content="Encode as Base64"/>
+            <Button Content="Decode Base64"/>
+            <Button Content="Encode URL"/>
+            <Button Content="Decode URL"/>
+            <Button Content="Cancel" IsCancel="True" Margin="5,20,5,5"/>
+        </StackPanel>
+        
+        <TextBox Grid.Column="2" x:Name="txtOut" IsReadOnly="True" Background="WhiteSmoke"/>
     </Grid>
 </Window>
